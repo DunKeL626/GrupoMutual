@@ -1,0 +1,86 @@
+{
+    "LogoGrupoMutual":{
+        "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > a",
+        "elemento":"href",
+        "URL":"/"
+    },"BotonDespliegueMenu":{
+        "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)"
+    },
+    "Desktop":{
+        "MutualBeneficios":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(1) > a",
+            "texto":"Mutual Beneficios",
+            "elemento":"href",
+            "URL":"/mutual-beneficios/"
+        },
+        "Sostenibilidad":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(2) > a",
+            "texto":"Sostenibilidad",
+            "elemento":"href",
+            "URL":"http://sostenible.gm.cr/"
+        },
+        "ServiciosAdicionales":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(3) > a",
+            "texto":"Servicios Adicionales",
+            "elemento":"href",
+            "URL":"/servicios-adicionales/"
+        },
+        "Contactenos":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(4) > a",
+            "texto":"Contáctenos",
+            "elemento":"href",
+            "URL":"/contactenos/"
+        },
+        "Sucursales":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(5) > a",
+            "texto":"Sucursales",
+            "elemento":"href",
+            "URL":"/sucursales/"
+        },
+        "BotonMutual":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > div.sc-932539a7-18.hERZPl > div.sc-6eaae418-3.bGyBgZ > a",
+            "texto":"Mutual en Línea",
+            "elemento":"href",
+            "URL":"https://gmalvonline.mutualaj.fi.cr/internet/autenticacion_aut.action"
+        }
+
+    },
+    "Responsive":{
+        "MutualBeneficios":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(10) > a",
+            "texto":"Mutual Beneficios",
+            "elemento":"href",
+            "URL":"/mutual-beneficios/"
+        },
+        "Sostenibilidad":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(9) > a",
+            "texto":"Sostenibilidad",
+            "elemento":"href",
+            "URL":"http://sostenible.gm.cr/"
+        },
+        "ServiciosAdicionales":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(8) > a",
+            "texto":"Servicios Adicionales",
+            "elemento":"href",
+            "URL":"/servicios-adicionales/"
+        },
+        "Contactenos":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > a",
+            "texto":"Contáctenos",
+            "elemento":"href",
+            "URL":"/contactenos/"
+        },
+        "Sucursales":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-0.jdBdOg",
+            "texto":"Sucursales",
+            "elemento":"href",
+            "URL":"/sucursales/"
+        },
+        "BotonMutual":{
+            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > div.sc-c34a9022-12.xufBT > a",
+            "texto":"Mutual en Móvil",
+            "elemento":"href",
+            "URL":"https://gmalvonline.mutualaj.fi.cr/internet/autenticacion_aut.action"
+        }
+    }
+}

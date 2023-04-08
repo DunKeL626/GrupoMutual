@@ -1,0 +1,27 @@
+{
+  "name": "qa-end2end",
+  "version": "1.0.0",
+  "description": "Automatización Grupo mutual End2End",
+  "main": "index.js",
+  "scripts": {
+    "cy:open": "cypress open",
+    "cy:run": "cypress run",
+    "cy:run-chrome": "cypress run --browser chrome",
+    "cy:run-edge": "cypress run --browser edge",
+    "cy:verify": "cypress verify"
+  },
+  "author": "Juan Carlos Herazo Plazas",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^12.9.0",
+    "cypress-cucumber-preprocessor": "^4.3.1"
+  },
+  "cypress-cucumber-preprocessor": {
+    "nonGlobalStepDefinitions": true,    
+    "cucumberJson": {
+      "generate": true,
+      "outputFolder": "cypress/cucumber-json",
+      "fileSuffix": ".cucumber"
+    }
+  }
+}
