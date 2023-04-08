@@ -1,0 +1,2 @@
+# GrupoMutual
+Automatización Cypress GrupoMutual
