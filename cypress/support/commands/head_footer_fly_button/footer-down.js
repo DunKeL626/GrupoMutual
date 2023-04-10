@@ -1,4 +1,4 @@
-import footerDown from '../../fixtures/footer-down.json'
+import footerDown from '../../../fixtures/head_footer_fly_button/footer-down.json'
 
 export function FooterDown(zise) {
 

@@ -1,4 +1,4 @@
-import redesSociales from '../../fixtures/redes-sociales.json'
+import redesSociales from '../../../fixtures/home/redes-sociales.json'
 
 export function RedesSociales(zise) {
 

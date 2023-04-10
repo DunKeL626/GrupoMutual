@@ -1,4 +1,4 @@
-import fotterUp from '../../fixtures/Footer-up.json'
+import fotterUp from '../../../fixtures/head_footer_fly_button/footer-up.json'
 
 export function FooterUp(zise) {
 

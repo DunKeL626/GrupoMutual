@@ -1,12 +1,11 @@
-import { HeadUp } from './commands/head-up';
-import { HeadDown } from './commands/head-down';
-import { FooterUp } from './commands/footer-up';
-import { FooterDown } from './commands/footer-down';
-import { FlyBottom } from './commands/fly-bottom';
-import { RedesSociales } from './commands/redes-sociales';
+import { HeadUp } from './commands/head_footer_fly_button/head-up';
+import { HeadDown } from './commands/head_footer_fly_button/head-down';
+import { FooterUp } from './commands/head_footer_fly_button/footer-up';
+import { FooterDown } from './commands/head_footer_fly_button/footer-down';
+import { FlyBottom } from './commands/head_footer_fly_button/fly-bottom';
+import { RedesSociales } from './commands/home/redes-sociales';
 
 Cypress.Commands.add('HeadFooterFlyBottom', (size) => {
-
     HeadUp(size);
     cy.reload();
     HeadDown(size);
@@ -20,7 +19,6 @@ Cypress.Commands.add('HeadFooterFlyBottom', (size) => {
 });
 
 Cypress.Commands.add('RedesSociales', (size) => {
-
     RedesSociales(size);
     cy.reload();
 });

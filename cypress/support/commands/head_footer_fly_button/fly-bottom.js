@@ -1,9 +1,6 @@
-import flyBottom from '../../fixtures/fly-bottom.json'
+import flyBottom from '../../../fixtures/head_footer_fly_button/fly-bottom.json'
 
 export function FlyBottom(zise) {
-
-    //Boton
-
 
     switch (zise) {
         case "Movil":
