@@ -1,4 +1,4 @@
-import name from '../../fixtures/name.json'
+import banner from '../../../fixtures/home/banner.json'
 
 export function NameFuction(zise) {
   //Boton

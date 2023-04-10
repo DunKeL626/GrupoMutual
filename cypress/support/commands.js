@@ -4,6 +4,9 @@ import { FooterUp } from './commands/head_footer_fly_button/footer-up';
 import { FooterDown } from './commands/head_footer_fly_button/footer-down';
 import { FlyBottom } from './commands/head_footer_fly_button/fly-bottom';
 import { RedesSociales } from './commands/home/redes-sociales';
+import { Banner } from './commands/home/banner';
+import { Mutuales } from './commands/home/mutuales';
+
 
 Cypress.Commands.add('HeadFooterFlyBottom', (size) => {
     HeadUp(size);
@@ -20,5 +23,15 @@ Cypress.Commands.add('HeadFooterFlyBottom', (size) => {
 
 Cypress.Commands.add('RedesSociales', (size) => {
     RedesSociales(size);
+    cy.reload();
+});
+
+Cypress.Commands.add('Banner', (size) => {
+    Banner(size);
+    cy.reload();
+});
+
+Cypress.Commands.add('Mutuales', (size) => {
+    Mutuales(size);
     cy.reload();
 });
