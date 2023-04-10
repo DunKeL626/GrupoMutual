@@ -1,38 +1,67 @@
 import headDown from '../../fixtures/head-down.json'
 
 export function HeadDown(zise){
-    if(zise >= 1100){
 
-        cy.get(headDown.TipoDeCambio.Desktop.BotonAbrir.selector).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Desktop.BotonAbrir.texto).click();
-        
-        for(const component in headDown.TipoDeCambio.Desktop.TipoDeCambio){
-            cy.log(`Se valida el componente tipo de cambio ${component}`);
-            cy.get(headDown.TipoDeCambio.Desktop.TipoDeCambio[component].selector).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Desktop.TipoDeCambio[component].texto);
-        } 
-        
-        cy.get(headDown.TipoDeCambio.Desktop.BotonCerrar.selector).scrollIntoView().should('exist').click();
-        
-        for(const component in headDown.Desktop){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(headDown.Desktop[component].selector).scrollIntoView().should('exist').and('have.attr', headDown.Desktop[component].elemento, headDown.Desktop[component].URL).contains(headDown.Desktop[component].texto);
-        }  
+    switch (zise) {
 
-    }else{
-        cy.get(headDown.TipoDeCambio.Responsive.BotonAbrirCerrar.selector).scrollIntoView().should('exist').click();
-        
-        for(const component in headDown.TipoDeCambio.Desktop.TipoDeCambio){
-            cy.log(`Se valida el componente tipo de cambio ${component}`);
-            cy.get(headDown.TipoDeCambio.Desktop.TipoDeCambio[component].selector).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Desktop.TipoDeCambio[component].texto);
-        } 
-        
-        cy.get(headDown.TipoDeCambio.Responsive.BotonAbrirCerrar.selector).scrollIntoView().should('exist').click();
-        
+        case "Movil":
+            cy.get(headDown.Boton.TipoDeCambio.selectorMovil).scrollIntoView().should('exist').click();
 
-        cy.get(headDown.BotonDespliegueMenu.selector).scrollIntoView().should('exist').click();
-        
-        for(const component in headDown.Desktop){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(headDown.Responsive[component].selector).scrollIntoView().should('exist').and('have.attr', headDown.Responsive[component].elemento, headDown.Responsive[component].URL).contains(headDown.Responsive[component].texto);
-        }
-    }  
+            for(const component in headDown.TipoDeCambio.Texto){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TipoDeCambio.Texto[component].selectorMovil).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Texto[component].texto);
+            }
+
+            cy.get(headDown.Boton.DespliegueMenu.selectorMovil).scrollIntoView().should('exist').click();
+
+            for(const component in headDown.TextoURL){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TextoURL[component].selectorMovil).scrollIntoView().should('exist').and('have.attr', headDown.TextoURL[component].elemento, headDown.TextoURL[component].URL).contains(headDown.TextoURL[component].texto);
+            }
+        break;
+
+        case "Tablet":
+            cy.get(headDown.Boton.TipoDeCambio.selectorMovil).scrollIntoView().should('exist').click();
+
+            for(const component in headDown.TipoDeCambio.Texto){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TipoDeCambio.Texto[component].selectorTablet).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Texto[component].texto);
+            }
+
+            cy.get(headDown.Boton.DespliegueMenu.selectorTablet).scrollIntoView().should('exist').click();
+
+            for(const component in headDown.TextoURL){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TextoURL[component].selectorTablet).scrollIntoView().should('exist').and('have.attr', headDown.TextoURL[component].elemento, headDown.TextoURL[component].URL).contains(headDown.TextoURL[component].texto);
+            }
+        break;
+
+        case "Laptop":
+            cy.get(headDown.Boton.TipoDeCambio.selectorLaptop).scrollIntoView().should('exist').contains(headDown.Boton.TipoDeCambio.texto).click();
+
+            for(const component in headDown.TipoDeCambio.Texto){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TipoDeCambio.Texto[component].selectorLaptop).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Texto[component].texto);
+            }
+
+            for(const component in headDown.TextoURL){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TextoURL[component].selectorLaptop).scrollIntoView().should('exist').and('have.attr', headDown.TextoURL[component].elemento, headDown.TextoURL[component].URL).contains(headDown.TextoURL[component].texto);
+            }
+        break;
+
+        case "Desktop":
+            cy.get(headDown.Boton.TipoDeCambio.selectorDesktop).scrollIntoView().should('exist').contains(headDown.Boton.TipoDeCambio.texto).click();
+
+            for(const component in headDown.TipoDeCambio.Texto){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TipoDeCambio.Texto[component].selectorDesktop).scrollIntoView().should('exist').contains(headDown.TipoDeCambio.Texto[component].texto);
+            }
+
+            for(const component in headDown.TextoURL){
+                cy.log(`Se valida el componente tipo de cambio ${component}`);
+                cy.get(headDown.TextoURL[component].selectorDesktop).scrollIntoView().should('exist').and('have.attr', headDown.TextoURL[component].elemento, headDown.TextoURL[component].URL).contains(headDown.TextoURL[component].texto);
+            }
+        break;
+    }
 }

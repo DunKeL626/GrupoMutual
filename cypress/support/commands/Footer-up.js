@@ -2,26 +2,55 @@ import fotterUp from '../../fixtures/Footer-up.json'
 
 export function FooterUp(zise){
 
-    if(zise >= 1100){   
-        
-        for(const component in fotterUp.Desktop.H2){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(fotterUp.Desktop.H2[component].selector).scrollIntoView().should('exist').and('have.attr', fotterUp.Desktop.H2[component].elemento, fotterUp.Desktop.H2[component].URL).contains(fotterUp.Desktop.H2[component].texto);
-        }   
+    switch (zise) {
 
-        for(const component in fotterUp.Desktop){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(fotterUp.Desktop[component].selector).scrollIntoView().should('exist').and('have.attr', fotterUp.Desktop[component].elemento, fotterUp.Desktop[component].URL).contains(fotterUp.Desktop[component].texto);
-        }   
+        case "Movil":
+            for(const component in fotterUp.texto){
+                cy.get(fotterUp.texto[component].selectorMovil).scrollIntoView().should('exist').contains(fotterUp.texto[component].texto);
+            }
+            for(const componentTitle in fotterUp.TextoURL){
+                cy.get(fotterUp.Boton[`${componentTitle}`].selectorMovil).scrollIntoView().should('exist').click();
+                for(const component in fotterUp.TextoURL[componentTitle]){
+                    cy.log(`Se valida el componente ${component} de la sección ${componentTitle}`);
+                    cy.get(fotterUp.TextoURL[componentTitle][component].selectorMovil).scrollIntoView().should('exist').and('have.attr', fotterUp.TextoURL[componentTitle][component].elemento, fotterUp.TextoURL[componentTitle][component].URL).contains(fotterUp.TextoURL[componentTitle][component].texto);
+                }
+            }
+        break;
 
-    }else{
+        case "Tablet":
+            for(const component in fotterUp.texto){
+                cy.get(fotterUp.texto[component].selectorTablet).scrollIntoView().should('exist').contains(fotterUp.texto[component].texto);
+            }
+            for(const componentTitle in fotterUp.TextoURL){
+                for(const component in fotterUp.TextoURL[componentTitle]){
+                    cy.log(`Se valida el componente ${component} de la sección ${componentTitle}`);
+                    cy.get(fotterUp.TextoURL[componentTitle][component].selectorTablet).scrollIntoView().should('exist').and('have.attr', fotterUp.TextoURL[componentTitle][component].elemento, fotterUp.TextoURL[componentTitle][component].URL).contains(fotterUp.TextoURL[componentTitle][component].texto);
+                }
+            }
+          break;
 
-        cy.get(fotterUp.LogoGrupoMutual.selector).scrollIntoView().should('exist').and('have.attr',fotterUp.LogoGrupoMutual.elemento,fotterUp.LogoGrupoMutual.URL);
-        cy.get(fotterUp.BotonDespliegueMenu.selector).scrollIntoView().should('exist').click();
-        
-        for(const component in fotterUp.Desktop){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(fotterUp.Responsive[component].selector).scrollIntoView().should('exist').and('have.attr', fotterUp.Responsive[component].elemento, fotterUp.Responsive[component].URL).contains(fotterUp.Responsive[component].texto);
-        }
-    }  
+        case "Laptop":
+            for(const component in fotterUp.texto){
+                cy.get(fotterUp.texto[component].selectorLaptop).scrollIntoView().should('exist').contains(fotterUp.texto[component].texto);
+            }
+            for(const componentTitle in fotterUp.TextoURL){
+                for(const component in fotterUp.TextoURL[componentTitle]){
+                    cy.log(`Se valida el componente ${component} de la sección ${componentTitle}`);
+                    cy.get(fotterUp.TextoURL[componentTitle][component].selectorLaptop).scrollIntoView().should('exist').and('have.attr', fotterUp.TextoURL[componentTitle][component].elemento, fotterUp.TextoURL[componentTitle][component].URL).contains(fotterUp.TextoURL[componentTitle][component].texto);
+                }
+            }
+        break;
+
+        case "Desktop":
+            for(const component in fotterUp.texto){
+                cy.get(fotterUp.texto[component].selectorDesktop).scrollIntoView().should('exist').contains(fotterUp.texto[component].texto);
+            }
+            for(const componentTitle in fotterUp.TextoURL){
+                for(const component in fotterUp.TextoURL[componentTitle]){
+                    cy.log(`Se valida el componente ${component} de la sección ${componentTitle}`);
+                    cy.get(fotterUp.TextoURL[componentTitle][component].selectorDesktop).scrollIntoView().should('exist').and('have.attr', fotterUp.TextoURL[componentTitle][component].elemento, fotterUp.TextoURL[componentTitle][component].URL).contains(fotterUp.TextoURL[componentTitle][component].texto);
+                }
+            }
+        break;
+    }
 }

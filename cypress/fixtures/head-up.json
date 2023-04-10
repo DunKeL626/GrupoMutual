@@ -1,84 +1,74 @@
 {
-    "LogoGrupoMutual":{
-        "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > a",
-        "elemento":"href",
-        "URL":"/"
-    },"BotonDespliegueMenu":{
-        "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)"
-    },
-    "Desktop":{
-        "MutualBeneficios":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(1) > a",
-            "texto":"Mutual Beneficios",
+    "URL":{
+        "LogoHeadGrupoMutual":{
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > a",
             "elemento":"href",
-            "URL":"/mutual-beneficios/"
-        },
-        "Sostenibilidad":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(2) > a",
-            "texto":"Sostenibilidad",
-            "elemento":"href",
-            "URL":"http://sostenible.gm.cr/"
-        },
-        "ServiciosAdicionales":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(3) > a",
-            "texto":"Servicios Adicionales",
-            "elemento":"href",
-            "URL":"/servicios-adicionales/"
-        },
-        "Contactenos":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(4) > a",
-            "texto":"Contáctenos",
-            "elemento":"href",
-            "URL":"/contactenos/"
-        },
-        "Sucursales":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(5) > a",
-            "texto":"Sucursales",
-            "elemento":"href",
-            "URL":"/sucursales/"
-        },
-        "BotonMutual":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > div.sc-932539a7-18.hERZPl > div.sc-6eaae418-3.bGyBgZ > a",
-            "texto":"Mutual en Línea",
-            "elemento":"href",
-            "URL":"https://gmalvonline.mutualaj.fi.cr/internet/autenticacion_aut.action"
+            "URL":"/"
         }
-
     },
-    "Responsive":{
+    "Boton":{            
+        "BotonDespliegueMenu":{
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
+            "selectorLaptop":"selector",
+            "selectorDesktop":"selector"
+        }
+    },
+    "TextoURL":{
         "MutualBeneficios":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(10) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(10) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(10) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(1) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(1) > a",
             "texto":"Mutual Beneficios",
             "elemento":"href",
             "URL":"/mutual-beneficios/"
         },
         "Sostenibilidad":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(9) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(9) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(9) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(2) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(2) > a",
             "texto":"Sostenibilidad",
             "elemento":"href",
             "URL":"http://sostenible.gm.cr/"
         },
         "ServiciosAdicionales":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(8) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(8) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(8) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(3) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(3) > a",
             "texto":"Servicios Adicionales",
             "elemento":"href",
             "URL":"/servicios-adicionales/"
         },
         "Contactenos":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(4) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(4) > a",
             "texto":"Contáctenos",
             "elemento":"href",
             "URL":"/contactenos/"
         },
         "Sucursales":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-0.jdBdOg",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-0.jdBdOg",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-0.jdBdOg",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(5) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > nav > ul > li:nth-child(5) > a",
             "texto":"Sucursales",
             "elemento":"href",
             "URL":"/sucursales/"
         },
         "BotonMutual":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > div.sc-c34a9022-12.xufBT > a",
-            "texto":"Mutual en Móvil",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > div.sc-c34a9022-12.xufBT > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-7.tSIjG > div.sc-c34a9022-12.xufBT > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > div.sc-932539a7-18.hERZPl > div.sc-6eaae418-3.bGyBgZ > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-2.cviKoz > div.sc-932539a7-18.hERZPl > div.sc-6eaae418-3.bGyBgZ > a",
+            "texto":"Mutual en ",
             "elemento":"href",
             "URL":"https://gmalvonline.mutualaj.fi.cr/internet/autenticacion_aut.action"
         }

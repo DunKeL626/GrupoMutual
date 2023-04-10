@@ -1,189 +1,158 @@
 {
-    "BotonDespliegueMenu":{
-        "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)"
-    },
-    "TipoDeCambio":{
-        "Responsive":{
-            "BotonAbrirCerrar":{
-                "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > button"
-            },
-            "TipoDeCambio":{
-                "Titulo":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
-                    "texto":"Tipo de cambio"
-                },
-                "Descripción":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
-                    "texto":"Ingresa el monto que desea convertir:"
-                },
-                "MonedaLocal":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
-                    "texto":"CRC"
-                },
-                "MonedaExtranjera":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
-                    "texto":"USD"
-                },
-                "Referencia":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
-                    "texto":"Tipo de cambio de referencia: "
-                },
-                "TituloCompra":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
-                    "texto":"Compra"
-                },
-                "TituloVenta":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
-                    "texto":"Venta"
-                }
-            }
+    "Boton":{            
+        "TipoDeCambio":{
+        "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > button",
+        "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > button",
+        "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
+        "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
+        "texto":"Tipo de cambio"
         },
-        "Desktop":{
-            "BotonAbrir":{
-                "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
-                "texto":"Tipo de cambio"
-            },
-            "BotonCerrar":{
-                "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > button"
-            },
-            "TipoDeCambio":{
-                "Titulo":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
-                    "texto":"Tipo de cambio"
-                },
-                "SubTitulo":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-7.sc-e726f2ee-8.dAhuUg.giFpKm",
-                    "texto":"Convertir moneda"
-                },
-                "Descripción":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
-                    "texto":"Ingresa el monto que desea convertir:"
-                },
-                "MonedaLocal":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
-                    "texto":"CRC"
-                },
-                "MonedaExtranjera":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
-                    "texto":"USD"
-                },
-                "Referencia":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
-                    "texto":"Tipo de cambio de referencia: "
-                },
-                "TipoMoneda":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-1.eqJwBU > p",
-                    "texto":"Dólar americano"
-                },
-                "TituloCompra":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
-                    "texto":"Compra"
-                },
-                "TituloVenta":{
-                    "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
-                    "texto":"Venta"
-                }
-            }
-        }       
+        "DespliegueMenu":{
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
+            "selectorLaptop":"selector",
+            "selectorDesktop":"selector"
+        }
     },
-    "Desktop":{
+    "TextoURL":{
         "CuentasDeAhorro":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
             "texto":"Cuentas de Ahorro",
             "elemento":"href",
             "URL":"/cuentas-de-ahorro/"
         },
         "Inversiones":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
             "texto":"Inversiones",
             "elemento":"href",
             "URL":"/inversiones/"
         },
         "Creditos":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
             "texto":"Créditos",
             "elemento":"href",
             "URL":"/creditos/"
         },
         "BonosDeVivienda":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
             "texto":"Bonos de Vivienda",
             "elemento":"href",
             "URL":"/bonos-vivienda/"
         },
         "BienesRaices":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
             "texto":"Bienes Raíces",
             "elemento":"href",
             "URL":"/bienes-raices/"
         },
         "Empresarial":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
             "texto":"Empresarial",
             "elemento":"href",
             "URL":"/empresarial/"
         },
         "Tarjetas":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
             "texto":"Tarjetas",
             "elemento":"href",
             "URL":"/tarjetas/"
         },
         "Buscador":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
+            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
+            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
+            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
             "texto":"Buscador",
             "elemento":"href",
             "URL":"/buscar/"
         }
     },
-    "Responsive":{
-        "CuentasDeAhorro":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
-            "texto":"Cuentas de Ahorro",
-            "elemento":"href",
-            "URL":"/cuentas-de-ahorro/"
+    "TipoDeCambio":{
+        "Texto":{
+            "Titulo":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "texto":"Tipo de cambio"
+            },
+            "Descripción":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "texto":"Ingresa el monto que desea convertir:"
+            },
+            "MonedaLocal":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "texto":"CRC"
+            },
+            "MonedaExtranjera":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "texto":"USD"
+            },
+            "Referencia":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "texto":"Tipo de cambio de referencia: "
+            },
+            "TituloCompra":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
+                "texto":"Compra"
+            },
+            "TituloVenta":{
+                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
+                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
+                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
+                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
+                "texto":"Venta"
+            }
+        },        
+        "SubTitulo":{
+            "selectorMovil":"selector",
+            "selectorTablet":"selector",
+            "selectorLaptop":"",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-7.sc-e726f2ee-8.dAhuUg.giFpKm",
+            "texto":"Convertir moneda"
         },
-        "Inversiones":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
-            "texto":"Inversiones",
-            "elemento":"href",
-            "URL":"/inversiones/"
-        },
-        "Creditos":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
-            "texto":"Créditos",
-            "elemento":"href",
-            "URL":"/creditos/"
-        },
-        "BonosDeVivienda":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
-            "texto":"Bonos de Vivienda",
-            "elemento":"href",
-            "URL":"/bonos-vivienda/"
-        },
-        "BienesRaices":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
-            "texto":"Bienes Raíces",
-            "elemento":"href",
-            "URL":"/bienes-raices/"
-        },
-        "Empresarial":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
-            "texto":"Empresarial",
-            "elemento":"href",
-            "URL":"/empresarial/"
-        },
-        "Tarjetas":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
-            "texto":"Tarjetas",
-            "elemento":"href",
-            "URL":"/tarjetas/"
-        },
-        "Buscador":{
-            "selector":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
-            "texto":"Buscador",
-            "elemento":"href",
-            "URL":"/buscar/"
+        "TipoMoneda":{
+            "selectorMovil":"selector",
+            "selectorTablet":"selector",
+            "selectorLaptop":"",
+            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-1.eqJwBU > p",
+            "texto":"Dólar americano"
         }
     }
 }

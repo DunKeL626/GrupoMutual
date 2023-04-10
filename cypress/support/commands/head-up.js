@@ -2,23 +2,46 @@ import headUp from '../../fixtures/head-up.json'
 
 export function HeadUp(zise){
 
-    if(zise >= 1100){
+    switch (zise) {
 
-        cy.get(headUp.LogoGrupoMutual.selector).scrollIntoView().should('exist').and('have.attr', headUp.LogoGrupoMutual.elemento, headUp.LogoGrupoMutual.URL);
-        
-        for(const component in headUp.Desktop){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(headUp.Desktop[component].selector).scrollIntoView().should('exist').and('have.attr', headUp.Desktop[component].elemento, headUp.Desktop[component].URL).contains(headUp.Desktop[component].texto);;
-        }   
+        case "Movil":
+            cy.get(headUp.URL.LogoHeadGrupoMutual.selectorMovil).should('have.attr',headUp.URL.LogoHeadGrupoMutual.elemento,headUp.URL.LogoHeadGrupoMutual.URL);
+            cy.get(headUp.Boton.BotonDespliegueMenu.selectorMovil).scrollIntoView().should('exist').click();
 
-    }else{
+            for(const component in headUp.TextoURL){
+                cy.log(`Se valida el componente ${component}`);
+                cy.get(headUp.TextoURL[component].selectorMovil).scrollIntoView().should('exist').and('have.attr', headUp.TextoURL[component].elemento, headUp.TextoURL[component].URL).contains(headUp.TextoURL[component].texto);
+            }
+        break;
 
-        cy.get(headUp.LogoGrupoMutual.selector).scrollIntoView().should('exist').and('have.attr',headUp.LogoGrupoMutual.elemento,headUp.LogoGrupoMutual.URL);
-        cy.get(headUp.BotonDespliegueMenu.selector).scrollIntoView().should('exist').click();
-        
-        for(const component in headUp.Desktop){
-            cy.log(`Se valida el componente ${component}`);
-            cy.get(headUp.Responsive[component].selector).scrollIntoView().should('exist').and('have.attr', headUp.Responsive[component].elemento, headUp.Responsive[component].URL).contains(headUp.Responsive[component].texto);;
-        }
-    }  
+        case "Tablet":
+            cy.get(headUp.URL.LogoHeadGrupoMutual.selectorMovil).should('have.attr',headUp.URL.LogoHeadGrupoMutual.elemento,headUp.URL.LogoHeadGrupoMutual.URL);
+            cy.get(headUp.Boton.BotonDespliegueMenu.selectorTablet).scrollIntoView().should('exist').click();
+
+            for(const component in headUp.TextoURL){
+                cy.log(`Se valida el componente ${component}`);
+                cy.get(headUp.TextoURL[component].selectorTablet).scrollIntoView().should('exist').and('have.attr', headUp.TextoURL[component].elemento, headUp.TextoURL[component].URL).contains(headUp.TextoURL[component].texto);
+
+            }
+        break;
+
+        case "Laptop":
+            cy.get(headUp.URL.LogoHeadGrupoMutual.selectorMovil).should('have.attr',headUp.URL.LogoHeadGrupoMutual.elemento,headUp.URL.LogoHeadGrupoMutual.URL);
+            
+            for(const component in headUp.TextoURL){
+                cy.log(`Se valida el componente ${component}`);
+                cy.get(headUp.TextoURL[component].selectorLaptop).scrollIntoView().should('exist').and('have.attr', headUp.TextoURL[component].elemento, headUp.TextoURL[component].URL).contains(headUp.TextoURL[component].texto);
+
+            }
+        break;
+
+        case "Desktop":
+            cy.get(headUp.URL.LogoHeadGrupoMutual.selectorMovil).should('have.attr',headUp.URL.LogoHeadGrupoMutual.elemento,headUp.URL.LogoHeadGrupoMutual.URL);
+            
+            for(const component in headUp.TextoURL){
+                cy.log(`Se valida el componente ${component}`);
+                cy.get(headUp.TextoURL[component].selectorDesktop).scrollIntoView().should('exist').and('have.attr', headUp.TextoURL[component].elemento, headUp.TextoURL[component].URL).contains(headUp.TextoURL[component].texto);
+            }
+        break;
+    }
 }

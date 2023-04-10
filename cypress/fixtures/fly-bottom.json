@@ -1,0 +1,39 @@
+{
+    "Boton":{            
+        "Flotante":{
+            "selectorMovil":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > button.sc-a2b2e33b-4.cIqOuv",
+            "selectorTablet":"selector",
+            "selectorLaptop":"selector",
+            "selectorDesktop":"selector"
+        }
+    },
+    "BotonTexto":{            
+        "Flotante":{
+            "selectorMovil":"selector",
+            "selectorTablet":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > button.sc-3d9ce12e-0.sc-a2b2e33b-1.kGSboh.gnKkGD",
+            "selectorLaptop":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > button.sc-3d9ce12e-0.sc-a2b2e33b-1.kGSboh.gnKkGD",
+            "selectorDesktop":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > button.sc-3d9ce12e-0.sc-a2b2e33b-1.kGSboh.gnKkGD",
+            "texto":"Necesitas ayuda"
+        }
+    },
+    "TextoURL":{
+        "WhatsApp":{
+            "selectorMovil":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(1) > div.sc-fe00deca-1.iKgFIu > a",
+            "selectorTablet":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(1) > div.sc-fe00deca-1.iKgFIu > a",
+            "selectorLaptop":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(1) > div.sc-fe00deca-1.iKgFIu > a",
+            "selectorDesktop":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(1) > div.sc-fe00deca-1.iKgFIu > a",
+            "texto":"WhatsApp",
+            "elemento":"href",
+            "URL":"https://api.whatsapp.com/send/?phone=50624371000&text&type=phone_number&app_absent=0"
+        },
+        "Telefono":{
+            "selectorMovil":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(2) > div.sc-fe00deca-1.iKgFIu > a",
+            "selectorTablet":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(2) > div.sc-fe00deca-1.iKgFIu > a",
+            "selectorLaptop":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(2) > div.sc-fe00deca-1.iKgFIu > a",
+            "selectorDesktop":"#__next > div > div.sc-a2b2e33b-0.jEthJT > div > div > ul > li:nth-child(2) > div.sc-fe00deca-1.iKgFIu > a",
+            "texto":"Teléfono",
+            "elemento":"href",
+            "URL":"tel:2437-1054"
+        }
+    }
+}
