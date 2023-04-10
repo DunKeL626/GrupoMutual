@@ -1,158 +1,158 @@
 {
-    "Boton":{            
-        "TipoDeCambio":{
-        "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > button",
-        "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > button",
-        "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
-        "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
-        "texto":"Tipo de cambio"
+    "Boton": {
+        "TipoDeCambio": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > button",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > button",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > button",
+            "texto": "Tipo de cambio"
         },
-        "DespliegueMenu":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
-            "selectorLaptop":"selector",
-            "selectorDesktop":"selector"
+        "DespliegueMenu": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-1.eHypPl > button > svg > g > path:nth-child(2)",
+            "selectorLaptop": "selector",
+            "selectorDesktop": "selector"
         }
     },
-    "TextoURL":{
-        "CuentasDeAhorro":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
-            "texto":"Cuentas de Ahorro",
-            "elemento":"href",
-            "URL":"/cuentas-de-ahorro/"
+    "TextoURL": {
+        "CuentasDeAhorro": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(1) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(1) > a",
+            "texto": "Cuentas de Ahorro",
+            "elemento": "href",
+            "URL": "/cuentas-de-ahorro/"
         },
-        "Inversiones":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
-            "texto":"Inversiones",
-            "elemento":"href",
-            "URL":"/inversiones/"
+        "Inversiones": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(2) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(2) > a",
+            "texto": "Inversiones",
+            "elemento": "href",
+            "URL": "/inversiones/"
         },
-        "Creditos":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
-            "texto":"Créditos",
-            "elemento":"href",
-            "URL":"/creditos/"
+        "Creditos": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(3) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(3) > a",
+            "texto": "Créditos",
+            "elemento": "href",
+            "URL": "/creditos/"
         },
-        "BonosDeVivienda":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
-            "texto":"Bonos de Vivienda",
-            "elemento":"href",
-            "URL":"/bonos-vivienda/"
+        "BonosDeVivienda": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(4) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(4) > a",
+            "texto": "Bonos de Vivienda",
+            "elemento": "href",
+            "URL": "/bonos-vivienda/"
         },
-        "BienesRaices":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
-            "texto":"Bienes Raíces",
-            "elemento":"href",
-            "URL":"/bienes-raices/"
+        "BienesRaices": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(5) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(5) > a",
+            "texto": "Bienes Raíces",
+            "elemento": "href",
+            "URL": "/bienes-raices/"
         },
-        "Empresarial":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
-            "texto":"Empresarial",
-            "elemento":"href",
-            "URL":"/empresarial/"
+        "Empresarial": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(6) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(6) > a",
+            "texto": "Empresarial",
+            "elemento": "href",
+            "URL": "/empresarial/"
         },
-        "Tarjetas":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
-            "texto":"Tarjetas",
-            "elemento":"href",
-            "URL":"/tarjetas/"
+        "Tarjetas": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > nav > ul > li:nth-child(7) > a",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > nav > ul > li:nth-child(7) > a",
+            "texto": "Tarjetas",
+            "elemento": "href",
+            "URL": "/tarjetas/"
         },
-        "Buscador":{
-            "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
-            "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
-            "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
-            "texto":"Buscador",
-            "elemento":"href",
-            "URL":"/buscar/"
+        "Buscador": {
+            "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
+            "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-2.eyVELw > header > div.sc-9a856235-5.fUGPC > section > div.sc-c34a9022-2.jTjQOk > div > a.sc-c34a9022-11.cpjIUu",
+            "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div > div.sc-f453a268-3.kRVVHF > header > div.sc-932539a7-5.ekmVuF > div > a",
+            "texto": "Buscador",
+            "elemento": "href",
+            "URL": "/buscar/"
         }
     },
-    "TipoDeCambio":{
-        "Texto":{
-            "Titulo":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
-                "texto":"Tipo de cambio"
+    "TipoDeCambio": {
+        "Texto": {
+            "Titulo": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-266106ae-0.bMXdly.sc-7882924f-0.gVstFl.sc-e726f2ee-2.iuaGws",
+                "texto": "Tipo de cambio"
             },
-            "Descripción":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
-                "texto":"Ingresa el monto que desea convertir:"
+            "Descripción": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-13.fHRYRt",
+                "texto": "Ingresa el monto que desea convertir:"
             },
-            "MonedaLocal":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
-                "texto":"CRC"
+            "MonedaLocal": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(1) > label",
+                "texto": "CRC"
             },
-            "MonedaExtranjera":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
-                "texto":"USD"
+            "MonedaExtranjera": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-5.jQtjOx.sc-e726f2ee-3.knGJTa > div:nth-child(3) > label",
+                "texto": "USD"
             },
-            "Referencia":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
-                "texto":"Tipo de cambio de referencia: "
+            "Referencia": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > div.sc-4c1baa4d-7.hxcEQv > p",
+                "texto": "Tipo de cambio de referencia: "
             },
-            "TituloCompra":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
-                "texto":"Compra"
+            "TituloCompra": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(1)",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(1) > p",
+                "texto": "Compra"
             },
-            "TituloVenta":{
-                "selectorMovil":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
-                "selectorTablet":"#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
-                "selectorLaptop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
-                "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
-                "texto":"Venta"
+            "TituloVenta": {
+                "selectorMovil": "#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
+                "selectorTablet": "#__next > div > div.sc-f453a268-0.gZRXbQ > button > div:nth-child(3)",
+                "selectorLaptop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
+                "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-9.ixcLsv > div:nth-child(2) > p",
+                "texto": "Venta"
             }
-        },        
-        "SubTitulo":{
-            "selectorMovil":"selector",
-            "selectorTablet":"selector",
-            "selectorLaptop":"",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-7.sc-e726f2ee-8.dAhuUg.giFpKm",
-            "texto":"Convertir moneda"
         },
-        "TipoMoneda":{
-            "selectorMovil":"selector",
-            "selectorTablet":"selector",
-            "selectorLaptop":"",
-            "selectorDesktop":"#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-1.eqJwBU > p",
-            "texto":"Dólar americano"
+        "SubTitulo": {
+            "selectorMovil": "selector",
+            "selectorTablet": "selector",
+            "selectorLaptop": "",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-11.dluVSu > p.sc-266106ae-0.iLrBep.sc-e726f2ee-7.sc-e726f2ee-8.dAhuUg.giFpKm",
+            "texto": "Convertir moneda"
+        },
+        "TipoMoneda": {
+            "selectorMovil": "selector",
+            "selectorTablet": "selector",
+            "selectorLaptop": "",
+            "selectorDesktop": "#__next > div > div.sc-f453a268-0.gZRXbQ > div.sc-e726f2ee-0.jknaKF > div > div.sc-e726f2ee-5.iAJMbn > div.sc-e726f2ee-6.dBvlnF > div.sc-e726f2ee-1.eqJwBU > p",
+            "texto": "Dólar americano"
         }
     }
 }

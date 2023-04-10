@@ -1,36 +1,36 @@
 import name from '../../fixtures/name.json'
 
-export function NameFuction(zise){
+export function NameFuction(zise) {
   //Boton
   cy.get(headDown.Boton.TipoDeCambio.selectorLaptop).scrollIntoView().should('exist').contains(headDown.Boton.TipoDeCambio.texto).click();
 
   switch (zise) {
 
     case "Movil":
-      for(const component in Objeto){
+      for (const component in Objeto) {
         // TextosURL
         cy.get(Objeto.TextoURL[component].selectorMovil).scrollIntoView().should('exist').and('have.attr', Objeto.TextoURL[component].elemento, Objeto.TextoURL[component].URL).contains(Objeto.TextoURL[component].texto);
       }
-    break;
+      break;
 
     case "Tablet":
-      for(const component in Objeto){
+      for (const component in Objeto) {
         // Textos
         cy.get(Objeto.TipoDeCambio.Texto[component].selectorMovil).scrollIntoView().should('exist').contains(Objeto.TipoDeCambio.Texto[component].texto);
       }
-    break;
+      break;
 
     case "Laptop":
-      for(const component in Objeto){
+      for (const component in Objeto) {
         //Imagenes
         cy.get(Objeto.TextoURL[component].selectorMovil).scrollIntoView().should('exist').and('have.attr', Objeto.TextoURL[component].elemento, Objeto.TextoURL[component].URL)
       }
-    break;
-    
+      break;
+
     case "Desktop":
-      for(const component in Objeto){
-        cy.log(component); 
+      for (const component in Objeto) {
+        cy.log(component);
       }
-    break;
+      break;
   }
 }

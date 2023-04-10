@@ -8,7 +8,10 @@
     "cy:run": "cypress run",
     "cy:run-chrome": "cypress run --browser chrome",
     "cy:run-edge": "cypress run --browser edge",
-    "cy:verify": "cypress verify"
+    "cy:run-chrome-pre": "cypress run --browser chrome",
+    "cy:run-edge-pre": "cypress run --browser edge",
+    "cy:run-chrome-pro": "cypress run --browser edge chrome",
+    "cy:run-edge-pro": "cypress run --browser"
   },
   "author": "Juan Carlos Herazo Plazas",
   "license": "ISC",
@@ -17,7 +20,7 @@
     "cypress-cucumber-preprocessor": "^4.3.1"
   },
   "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true,    
+    "nonGlobalStepDefinitions": true,
     "cucumberJson": {
       "generate": true,
       "outputFolder": "cypress/cucumber-json",

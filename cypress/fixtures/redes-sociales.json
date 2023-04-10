@@ -1,0 +1,53 @@
+{
+    "Texto": {
+        "SiganosEn": {
+            "selectorMovil": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > h2",
+            "selectorTablet": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > h2",
+            "selectorLaptop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > h2",
+            "selectorDesktop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > h2",
+            "texto": "Síganos en:"
+        }
+    },
+    "URL": {
+        "Instagram": {
+            "selectorMovil": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(1)",
+            "selectorTablet": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(1)",
+            "selectorLaptop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(1)",
+            "selectorDesktop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(1)",
+            "elemento": "href",
+            "URL": "https://www.instagram.com/grupomutual/?igshid=Nzg3NjI1NGI%3D"
+        },
+        "Tiktok": {
+            "selectorMovil": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(2)",
+            "selectorTablet": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(2)",
+            "selectorLaptop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(2)",
+            "selectorDesktop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(2)",
+            "elemento": "href",
+            "URL": "https://www.tiktok.com/@grupomutual?_t=8Y7lkM5MO7K&_r=1"
+        },
+        "Facebook": {
+            "selectorMovil": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(3)",
+            "selectorTablet": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(3)",
+            "selectorLaptop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(3)",
+            "selectorDesktop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(3)",
+            "elemento": "href",
+            "URL": "https://www.facebook.com/GrupoMutual"
+        },
+        "Youtube": {
+            "selectorMovil": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(4)",
+            "selectorTablet": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(4)",
+            "selectorLaptop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(4)",
+            "selectorDesktop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(4)",
+            "elemento": "href",
+            "URL": "https://youtube.com/@grupomutual6116"
+        },
+        "Linkedin": {
+            "selectorMovil": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(5)",
+            "selectorTablet": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(5)",
+            "selectorLaptop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(5)",
+            "selectorDesktop": "#__next > div > div.sc-2a0cff0c-0.ljCDMQ > div > nav > div > a:nth-child(5)",
+            "elemento": "href",
+            "URL": "https://www.linkedin.com/company/grupo-mutual/"
+        }
+    }
+}

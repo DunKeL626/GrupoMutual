@@ -1,209 +1,208 @@
 {
-    "Texto":{            
-        "NecesitasAyuda":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
-            "texto":"¿Necesitas ayuda?"
+    "Texto": {
+        "NecesitasAyuda": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > p",
+            "texto": "¿Necesitas ayuda?"
         },
-        "AplicacionMovilGrupoMutual":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
-            "texto":"Aplicación Móvil Grupo Mutual"
+        "AplicacionMovilGrupoMutual": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > p",
+            "texto": "Aplicación Móvil Grupo Mutual"
         },
-        "AccedaTambien":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
-            "texto":"Acceda también"
+        "AccedaTambien": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > p",
+            "texto": "Acceda también"
         },
-        "CentralTelefonicaYWhatsApp":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
-            "texto":"Central telefónica y WhatsApp"
+        "CentralTelefonicaYWhatsApp": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-4.gZLEGT > p",
+            "texto": "Central telefónica y WhatsApp"
         },
-        "MutualFondos":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
-            "texto":"Mutual"
+        "MutualFondos": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1) > p.sc-6511c159-2.eHGsvE",
+            "texto": "Mutual"
         },
-        "MutualSeguros":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
-            "texto":"Mutual"
+        "MutualSeguros": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2) > p.sc-6511c159-2.eHGsvE",
+            "texto": "Mutual"
         },
-        "MutualLeasing":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
-            "texto":"Mutual"
+        "MutualLeasing": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3) > p.sc-6511c159-2.eHGsvE",
+            "texto": "Mutual"
         },
-        "MutualValores":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
-            "texto":"Mutual",
-            "elemento":"href"
+        "MutualValores": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4) > p.sc-6511c159-2.eHGsvE",
+            "texto": "Mutual",
+            "elemento": "href"
         },
-        "GrupoMutualTodosLosDerechosReservados":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
-            "texto":"©2023 Grupo Mutual Todos los derechos reservados"
+        "GrupoMutualTodosLosDerechosReservados": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small",
+            "texto": "©2023 Grupo Mutual Todos los derechos reservados"
         }
     },
-    "Imagenes":{
-        "LogoFooterGrupoMutual":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
-            "elemento":"href",
-            "URL":"/"
+    "Imagenes": {
+        "LogoFooterGrupoMutual": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > small > a",
+            "elemento": "href",
+            "URL": "/"
         },
-        
-        "AppStore":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
-            "elemento":"href",
-            "URL":"https://apps.apple.com/cr/app/mutual-m%C3%B3vil/id1085085763"
+        "AppStore": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(1)",
+            "elemento": "href",
+            "URL": "https://apps.apple.com/cr/app/mutual-m%C3%B3vil/id1085085763"
         },
-        "GooglePlay":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
-            "elemento":"href",
-            "URL":"https://play.google.com/store/apps/details?id=fi.cr.gmalv.mutualmovil.activities"
+        "GooglePlay": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-88fce3ff-0.bxbcCD > div > a:nth-child(2)",
+            "elemento": "href",
+            "URL": "https://play.google.com/store/apps/details?id=fi.cr.gmalv.mutualmovil.activities"
         },
-        "Instagram":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
-            "elemento":"href",
-            "URL":"https://www.instagram.com/grupomutual/?igshid=Nzg3NjI1NGI%3D"
+        "Instagram": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(1)",
+            "elemento": "href",
+            "URL": "https://www.instagram.com/grupomutual/?igshid=Nzg3NjI1NGI%3D"
         },
-        "Tiktok":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
-            "elemento":"href",
-            "URL":"https://www.tiktok.com/@grupomutual?_t=8Y7lkM5MO7K&_r=1"
+        "Tiktok": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(2)",
+            "elemento": "href",
+            "URL": "https://www.tiktok.com/@grupomutual?_t=8Y7lkM5MO7K&_r=1"
         },
-        "Facebook":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
-            "elemento":"href",
-            "URL":"https://www.facebook.com/GrupoMutual"
+        "Facebook": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(3)",
+            "elemento": "href",
+            "URL": "https://www.facebook.com/GrupoMutual"
         },
-        "Youtube":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
-            "elemento":"href",
-            "URL":"https://youtube.com/@grupomutual6116"
+        "Youtube": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(4)",
+            "elemento": "href",
+            "URL": "https://youtube.com/@grupomutual6116"
         },
-        "Linkedin":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
-            "elemento":"href",
-            "URL":"https://www.linkedin.com/company/grupo-mutual/"
+        "Linkedin": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-fdebbcd8-0.jUsLVc > a:nth-child(5)",
+            "elemento": "href",
+            "URL": "https://www.linkedin.com/company/grupo-mutual/"
         }
     },
-    "TextoURL":{
-        "AdministraciondeConvenios":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
-            "texto":"Administración de convenios",
-            "elemento":"href",
-            "URL":"https://mutualempresarial.fi.cr/colegiaturas/"
+    "TextoURL": {
+        "AdministraciondeConvenios": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(1)",
+            "texto": "Administración de convenios",
+            "elemento": "href",
+            "URL": "https://mutualempresarial.fi.cr/colegiaturas/"
         },
-        "EstudiosTecnicosYLegales":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
-            "texto":"Estudios técnicos y legales",
-            "elemento":"href",
-            "URL":"https://mutualempresarial.fi.cr/estudiosdigitales/"
+        "EstudiosTecnicosYLegales": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-ef0981e-0.fmXJhl > div > a:nth-child(2)",
+            "texto": "Estudios técnicos y legales",
+            "elemento": "href",
+            "URL": "https://mutualempresarial.fi.cr/estudiosdigitales/"
         },
-        "Escribanos":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
-            "texto":"Escríbanos",
-            "elemento":"href",
-            "URL":"/contactenos/formulario/"
+        "Escribanos": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(2) > a",
+            "texto": "Escríbanos",
+            "elemento": "href",
+            "URL": "/contactenos/formulario/"
         },
-        "Telefono":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
-            "texto":"2437-1000",
-            "elemento":"href",
-            "URL":"tel:2437-1000"
+        "Telefono": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-55d8a3d3-0.jLkKVV > div:nth-child(1) > div > div.sc-c51d2656-3.hazmsd > a",
+            "texto": "2437-1000",
+            "elemento": "href",
+            "URL": "tel:2437-1000"
         },
-        "Fondos":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
-            "texto":"Fondos",
-            "elemento":"href",
-            "URL":"https://www.grupomutual.com/MutualFondos"
+        "Fondos": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(1)",
+            "texto": "Fondos",
+            "elemento": "href",
+            "URL": "https://www.grupomutual.com/MutualFondos"
         },
-        "Seguros":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
-            "texto":"Seguros",
-            "elemento":"href",
-            "URL":"https://corredoramutualseguros.fi.cr/"
+        "Seguros": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(2)",
+            "texto": "Seguros",
+            "elemento": "href",
+            "URL": "https://corredoramutualseguros.fi.cr/"
         },
-        "Leasing":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
-            "texto":"Leasing",
-            "elemento":"href",
-            "URL":"https://www.grupomutual.com/MutualLeasing"
+        "Leasing": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(3)",
+            "texto": "Leasing",
+            "elemento": "href",
+            "URL": "https://www.grupomutual.com/MutualLeasing"
         },
-        "Valores":{
-            "selectorMovil":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
-            "selectorTablet":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
-            "selectorLaptop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
-            "selectorDesktop":"#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
-            "texto":"Valores",
-            "elemento":"href",
-            "URL":"https://www.mutualvalores.fi.cr/"
+        "Valores": {
+            "selectorMovil": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
+            "selectorTablet": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
+            "selectorLaptop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
+            "selectorDesktop": "#__next > div > footer > section.sc-4b5e5fea-0.gOgJOK > div > div.sc-4b5e5fea-4.fNJzqT > div.sc-6511c159-0.kzIKtJ > a:nth-child(4)",
+            "texto": "Valores",
+            "elemento": "href",
+            "URL": "https://www.mutualvalores.fi.cr/"
         }
     }
 }

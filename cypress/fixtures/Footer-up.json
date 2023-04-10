@@ -1,187 +1,187 @@
 {
-    "Boton":{            
-        "SomosGrupoMutual":{
-            "selectorMovil":"#radix-\\:R39l6\\:",
-            "selectorTablet":"selector",
-            "selectorLaptop":"selector",
-            "selectorDesktop":"selector"
+    "Boton": {
+        "SomosGrupoMutual": {
+            "selectorMovil": "#radix-\\:R39l6\\:",
+            "selectorTablet": "selector",
+            "selectorLaptop": "selector",
+            "selectorDesktop": "selector"
         },
-        "InformacionDeInteres":{
-            "selectorMovil":"#radix-\\:R59l6\\:",
-            "selectorTablet":"selector",
-            "selectorLaptop":"selector",
-            "selectorDesktop":"selector"
+        "InformacionDeInteres": {
+            "selectorMovil": "#radix-\\:R59l6\\:",
+            "selectorTablet": "selector",
+            "selectorLaptop": "selector",
+            "selectorDesktop": "selector"
         },
-        "InformacionLegal":{
-            "selectorMovil":"#radix-\\:R79l6\\:",
-            "selectorTablet":"selector",
-            "selectorLaptop":"selector",
-            "selectorDesktop":"selector"
+        "InformacionLegal": {
+            "selectorMovil": "#radix-\\:R79l6\\:",
+            "selectorTablet": "selector",
+            "selectorLaptop": "selector",
+            "selectorDesktop": "selector"
         }
     },
-    "Texto":{            
-        "SomosGrupoMutual":{
-            "selectorMovil":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
-            "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
-            "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
-            "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
-            "texto":"Somos Grupo Mutual"
+    "Texto": {
+        "SomosGrupoMutual": {
+            "selectorMovil": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
+            "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
+            "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
+            "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > h2",
+            "texto": "Somos Grupo Mutual"
         },
-        "InformacionDeInteres":{
-            "selectorMovil":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
-            "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
-            "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
-            "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
-            "texto":"Información de interés"
+        "InformacionDeInteres": {
+            "selectorMovil": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
+            "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
+            "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
+            "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > h2",
+            "texto": "Información de interés"
         },
-        "InformaciónLegal":{
-            "selectorMovil":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
-            "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
-            "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
-            "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
-            "texto":"Información legal"
+        "InformaciónLegal": {
+            "selectorMovil": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
+            "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
+            "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
+            "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > h2",
+            "texto": "Información legal"
         }
     },
-    "TextoURL":{ 
-        "SomosGrupoMutual":{            
-            "QuienesSomos":{
-                "selectorMovil":"#radix-\\:Rb9l6\\: > ul > li:nth-child(1) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(1) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(1) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(1) > a",
-                "texto":"Quiénes somos",
-                "elemento":"href",
-                "URL":"/somos-grupo-mutual/quienes-somos/"
+    "TextoURL": {
+        "SomosGrupoMutual": {
+            "QuienesSomos": {
+                "selectorMovil": "#radix-\\:Rb9l6\\: > ul > li:nth-child(1) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(1) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(1) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(1) > a",
+                "texto": "Quiénes somos",
+                "elemento": "href",
+                "URL": "/somos-grupo-mutual/quienes-somos/"
             },
-            "ServiciosAdicionales":{
-                "selectorMovil":"#radix-\\:Rb9l6\\: > ul > li:nth-child(2) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(2) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(2) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(2) > a",
-                "texto":"Servicios adicionales",
-                "elemento":"href",
-                "URL":"/servicios-adicionales/"
+            "ServiciosAdicionales": {
+                "selectorMovil": "#radix-\\:Rb9l6\\: > ul > li:nth-child(2) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(2) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(2) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(2) > a",
+                "texto": "Servicios adicionales",
+                "elemento": "href",
+                "URL": "/servicios-adicionales/"
             },
-            "Sostenibilidad":{
-                "selectorMovil":"#radix-\\:Rb9l6\\: > ul > li:nth-child(3) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(3) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(3) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(3) > a",
-                "texto":"Sostenibilidad",
-                "elemento":"href",
-                "URL":"http://sostenible.gm.cr/"
+            "Sostenibilidad": {
+                "selectorMovil": "#radix-\\:Rb9l6\\: > ul > li:nth-child(3) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(3) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(3) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(3) > a",
+                "texto": "Sostenibilidad",
+                "elemento": "href",
+                "URL": "http://sostenible.gm.cr/"
             },
-            "ProyeccionSocial":{
-                "selectorMovil":"#radix-\\:Rb9l6\\: > ul > li:nth-child(4) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(4) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(4) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(4) > a",
-                "texto":"Proyección social",
-                "elemento":"href",
-                "URL":"/proyeccion-social/"
+            "ProyeccionSocial": {
+                "selectorMovil": "#radix-\\:Rb9l6\\: > ul > li:nth-child(4) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(4) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(4) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(1) > article > ul > li:nth-child(4) > a",
+                "texto": "Proyección social",
+                "elemento": "href",
+                "URL": "/proyeccion-social/"
             }
         },
-        "InformacionDeInteres":{
-            "CodigoEInformeGobiernoCorporativo":{
-                "selectorMovil":"#radix-\\:Rd9l6\\: > ul > li:nth-child(1) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(1) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(1) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(1) > a",
-                "texto":"Código e informe Gobierno Corporativo",
-                "elemento":"href",
-                "URL":"/codigo-e-informe-de-gobierno-corporativo/"
+        "InformacionDeInteres": {
+            "CodigoEInformeGobiernoCorporativo": {
+                "selectorMovil": "#radix-\\:Rd9l6\\: > ul > li:nth-child(1) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(1) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(1) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(1) > a",
+                "texto": "Código e informe Gobierno Corporativo",
+                "elemento": "href",
+                "URL": "/codigo-e-informe-de-gobierno-corporativo/"
             },
-            "ComparadorDeProductosCrediticios":{
-                "selectorMovil":"#radix-\\:Rd9l6\\: > ul > li:nth-child(2) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(2) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(2) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(2) > a",
-                "texto":"Comparador de productos crediticios",
-                "elemento":"href",
-                "URL":"/comparador/productos/"
+            "ComparadorDeProductosCrediticios": {
+                "selectorMovil": "#radix-\\:Rd9l6\\: > ul > li:nth-child(2) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(2) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(2) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(2) > a",
+                "texto": "Comparador de productos crediticios",
+                "elemento": "href",
+                "URL": "/comparador/productos/"
             },
-            "ComparadorDeMediosDePago":{
-                "selectorMovil":"#radix-\\:Rd9l6\\: > ul > li:nth-child(3) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(3) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(3) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(3) > a",
-                "texto":"Comparador de medios de pago",
-                "elemento":"href",
-                "URL":"/comparador/medios-de-pago/"
+            "ComparadorDeMediosDePago": {
+                "selectorMovil": "#radix-\\:Rd9l6\\: > ul > li:nth-child(3) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(3) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(3) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(3) > a",
+                "texto": "Comparador de medios de pago",
+                "elemento": "href",
+                "URL": "/comparador/medios-de-pago/"
             },
-            "MemoriaAnual":{
-                "selectorMovil":"#radix-\\:Rd9l6\\: > ul > li:nth-child(4) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(4) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(4) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(4) > a",
-                "texto":"Memoria Anual",
-                "elemento":"href",
-                "URL":"/reportes-anuales/memoria-anual/"
+            "MemoriaAnual": {
+                "selectorMovil": "#radix-\\:Rd9l6\\: > ul > li:nth-child(4) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(4) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(4) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(4) > a",
+                "texto": "Memoria Anual",
+                "elemento": "href",
+                "URL": "/reportes-anuales/memoria-anual/"
             },
-            "InformeAnualDeRiesgos":{
-                "selectorMovil":"#radix-\\:Rd9l6\\: > ul > li:nth-child(5) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(5) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(5) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(5) > a",
-                "texto":"Informe Anual de Riesgos",
-                "elemento":"href",
-                "URL":"/reportes-anuales/informe-anual-riesgos/"
+            "InformeAnualDeRiesgos": {
+                "selectorMovil": "#radix-\\:Rd9l6\\: > ul > li:nth-child(5) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(5) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(5) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(5) > a",
+                "texto": "Informe Anual de Riesgos",
+                "elemento": "href",
+                "URL": "/reportes-anuales/informe-anual-riesgos/"
             },
-            "InformacionFinanciera":{
-                "selectorMovil":"#radix-\\:Rd9l6\\: > ul > li:nth-child(6) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(6) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(6) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(6) > a",
-                "texto":"Información financiera",
-                "elemento":"href",
-                "URL":"/informacion-financiera/"
+            "InformacionFinanciera": {
+                "selectorMovil": "#radix-\\:Rd9l6\\: > ul > li:nth-child(6) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(6) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(6) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(2) > article > ul > li:nth-child(6) > a",
+                "texto": "Información financiera",
+                "elemento": "href",
+                "URL": "/informacion-financiera/"
             }
         },
-        "InformacionLegal":{
-            "DeclaraciónUsoDeServiciosElectrónicos":{
-                "selectorMovil":"#radix-\\:Rf9l6\\: > ul > li:nth-child(1) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(1) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(1) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(1) > a",
-                "texto":"Declaración uso de servicios electrónicos",
-                "elemento":"href",
-                "URL":"/declaracion-privacidad-uso-canales-electronicos/"
+        "InformacionLegal": {
+            "DeclaraciónUsoDeServiciosElectrónicos": {
+                "selectorMovil": "#radix-\\:Rf9l6\\: > ul > li:nth-child(1) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(1) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(1) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(1) > a",
+                "texto": "Declaración uso de servicios electrónicos",
+                "elemento": "href",
+                "URL": "/declaracion-privacidad-uso-canales-electronicos/"
             },
-            "TerminosYOondicionesSINPEMovilMutual":{
-                "selectorMovil":"#radix-\\:Rf9l6\\: > ul > li:nth-child(2) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(2) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(2) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(2) > a",
-                "texto":"Términos y condiciones SINPE Móvil Mutual",
-                "elemento":"href",
-                "URL":"/terminos-y-condiciones/sinpe-movil-mutual/"
+            "TerminosYOondicionesSINPEMovilMutual": {
+                "selectorMovil": "#radix-\\:Rf9l6\\: > ul > li:nth-child(2) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(2) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(2) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(2) > a",
+                "texto": "Términos y condiciones SINPE Móvil Mutual",
+                "elemento": "href",
+                "URL": "/terminos-y-condiciones/sinpe-movil-mutual/"
             },
-            "Ley8204":{
-                "selectorMovil":"#radix-\\:Rf9l6\\: > ul > li:nth-child(3) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(3) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(3) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(3) > a",
-                "texto":"Ley 8204",
-                "elemento":"href",
-                "URL":"/informacion-legal/ley-8204/"
+            "Ley8204": {
+                "selectorMovil": "#radix-\\:Rf9l6\\: > ul > li:nth-child(3) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(3) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(3) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(3) > a",
+                "texto": "Ley 8204",
+                "elemento": "href",
+                "URL": "/informacion-legal/ley-8204/"
             },
-            "ReglamentosVigentes":{
-                "selectorMovil":"#radix-\\:Rf9l6\\: > ul > li:nth-child(4) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(4) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(4) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(4) > a",
-                "texto":"Reglamentos vigentes",
-                "elemento":"href",
-                "URL":"/reglamentos/"
+            "ReglamentosVigentes": {
+                "selectorMovil": "#radix-\\:Rf9l6\\: > ul > li:nth-child(4) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(4) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(4) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(4) > a",
+                "texto": "Reglamentos vigentes",
+                "elemento": "href",
+                "URL": "/reglamentos/"
             },
-            "ContraloriaDeServicios":{
-                "selectorMovil":"#radix-\\:Rf9l6\\: > ul > li:nth-child(5) > a",
-                "selectorTablet":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(5) > a",
-                "selectorLaptop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(5) > a",
-                "selectorDesktop":"#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(5) > a",
-                "texto":"Contraloría de Servicios",
-                "elemento":"href",
-                "URL":"/contraloria-de-servicios/"
+            "ContraloriaDeServicios": {
+                "selectorMovil": "#radix-\\:Rf9l6\\: > ul > li:nth-child(5) > a",
+                "selectorTablet": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(5) > a",
+                "selectorLaptop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(5) > a",
+                "selectorDesktop": "#__next > div > footer > section.sc-88d1b85e-0.bWlgCA > article > section:nth-child(3) > article > ul > li:nth-child(5) > a",
+                "texto": "Contraloría de Servicios",
+                "elemento": "href",
+                "URL": "/contraloria-de-servicios/"
             }
         }
     }
