@@ -17,7 +17,7 @@ export function HeadUp(zise) {
         case "Tablet":
             cy.get(headUp.URL.LogoHeadGrupoMutual.selectorMovil).should('have.attr', headUp.URL.LogoHeadGrupoMutual.elemento, headUp.URL.LogoHeadGrupoMutual.URL);
             cy.get(headUp.Boton.BotonDespliegueMenu.selectorTablet).scrollIntoView().should('exist').click();
-            
+
             for (const component in headUp.TextoURL) {
                 cy.log(`Se valida el componente ${component}`);
                 cy.get(headUp.TextoURL[component].selectorTablet).scrollIntoView().should('exist').and('have.attr', headUp.TextoURL[component].elemento, headUp.TextoURL[component].URL).contains(headUp.TextoURL[component].texto);

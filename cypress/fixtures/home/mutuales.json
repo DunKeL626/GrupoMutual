@@ -1,5 +1,5 @@
 {
-    "ConozcaNuestrasSubsidiarias":{
+    "ConozcaNuestrasSubsidiarias": {
         "Imagen": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > img",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > img",
@@ -13,17 +13,17 @@
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > h2",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > h2",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > h2",
-            "texto":"Conozca nuestras subsidiarias"
+            "texto": "Conozca nuestras subsidiarias"
         },
         "Descripcion": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > p",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > p",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > p",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-3a83761b-0.dcWNhA > div > p",
-            "texto":"En Grupo Mutual tenemos diferentes líneas de productos diseñados para ofrecerle todo lo que necesita para su crecimiento financiero."
+            "texto": "En Grupo Mutual tenemos diferentes líneas de productos diseñados para ofrecerle todo lo que necesita para su crecimiento financiero."
         }
     },
-    "Valores":{
+    "Valores": {
         "Imagen": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1)",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1)",
@@ -37,17 +37,17 @@
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > h3",
-            "texto":"Valores"
+            "texto": "Valores"
         },
         "Descripcion": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(1) > div.sc-4b5bfb73-3.iJLxrC > p",
-            "texto":"Mutual"
+            "texto": "Mutual"
         }
     },
-    "Fondos":{
+    "Fondos": {
         "Imagen": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2)",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2)",
@@ -61,17 +61,17 @@
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > h3",
-            "texto":"Fondos"
+            "texto": "Fondos"
         },
         "Descripcion": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(2) > div.sc-4b5bfb73-3.iJLxrC > p",
-            "texto":"Mutual"
+            "texto": "Mutual"
         }
     },
-    "Leasing":{
+    "Leasing": {
         "Imagen": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4)",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4)",
@@ -85,17 +85,17 @@
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > h3",
-            "texto":"Leasing"
+            "texto": "Leasing"
         },
         "Descripcion": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(4) > div.sc-4b5bfb73-3.iJLxrC > p",
-            "texto":"Mutual"
+            "texto": "Mutual"
         }
     },
-    "Seguros":{
+    "Seguros": {
         "Imagen": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3)",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3)",
@@ -109,14 +109,14 @@
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > h3",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > h3",
-            "texto":"Seguros"
+            "texto": "Seguros"
         },
         "Descripcion": {
             "selectorMovil": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorTablet": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorLaptop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > p",
             "selectorDesktop": "#__next > div > div.sc-4b5bfb73-0.kyDwuE > div > div.sc-16972873-2.aVtwm > a:nth-child(3) > div.sc-4b5bfb73-3.iJLxrC > p",
-            "texto":"Mutual"
+            "texto": "Mutual"
         }
     }
 }

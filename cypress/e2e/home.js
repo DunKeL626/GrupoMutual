@@ -5,20 +5,20 @@ describe('Validar estructura del Home del Grupo Mutual', () => {
 
     for (const size in viewport) {
 
-        // it(`Validar header, footer y botón flotante, en resolusión ${size}`, () => {
-        //     cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);
-        //     cy.HeadFooterFlyBottom(size)
-        // });
+        it(`Validar header, footer y botón flotante, en resolusión ${size}`, () => {
+            cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);
+            cy.HeadFooterFlyBottom(size)
+        });
 
-        // it(`Validar sección redes sociales, en resolusión ${size}`, () => {
-        //     cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);
-        //     cy.RedesSociales(size)
-        // });
+        it(`Validar sección redes sociales, en resolusión ${size}`, () => {
+            cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);
+            cy.RedesSociales(size)
+        });
 
-        // it(`Validar sección banner, en resolusión ${size}`, () => {
-        //     cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);
-        //     cy.Banner(size)
-        // });
+        it(`Validar sección banner, en resolusión ${size}`, () => {
+            cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);
+            cy.Banner(size)
+        });
 
         it(`Validar sección mutuales, en resolusión ${size}`, () => {
             cy.visit(pathURL.Home).viewport(viewport[size][0], viewport[size][1]);

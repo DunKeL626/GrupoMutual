@@ -16,15 +16,6 @@
   "author": "Juan Carlos Herazo Plazas",
   "license": "ISC",
   "dependencies": {
-    "cypress": "^12.9.0",
-    "cypress-cucumber-preprocessor": "^4.3.1"
-  },
-  "cypress-cucumber-preprocessor": {
-    "nonGlobalStepDefinitions": true,
-    "cucumberJson": {
-      "generate": true,
-      "outputFolder": "cypress/cucumber-json",
-      "fileSuffix": ".cucumber"
-    }
+    "cypress": "^12.9.0"
   }
 }

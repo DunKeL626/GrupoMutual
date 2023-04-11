@@ -1,5 +1,5 @@
 {
-    "banner":{
+    "banner": {
         "TarjetaDeRegalo": {
             "Imagen": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(1) > picture > img",
@@ -14,23 +14,23 @@
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
-                "texto":"Ganá una de las 45 tarjetas de regalo de ¢50.000"
+                "texto": "Ganá una de las 45 tarjetas de regalo de ¢50.000"
             },
             "Descripcion": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
-                "texto":"Aperturá o renová tu Cuenta Multiahorro en colones y acumulá acciones"
+                "texto": "Aperturá o renová tu Cuenta Multiahorro en colones y acumulá acciones"
             },
             "Boton": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(1) > div > div.sc-f3aad89a-2.jgXckh > a",
-                "texto":"Quiero saber más",
+                "texto": "Quiero saber más",
                 "elemento": "href",
-                "URL":"/cuentas-de-ahorro/multiahorro/"
+                "URL": "/cuentas-de-ahorro/multiahorro/"
             }
         },
         "TarjetaDeDebito": {
@@ -47,23 +47,23 @@
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
-                "texto":"Compre y gane con su tarjeta de débito"
+                "texto": "Compre y gane con su tarjeta de débito"
             },
             "Descripcion": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
-                "texto":"Compre ₡5,000 o más y participa por: 3 kits parrilleros, 2 pantallas de televisión o 15 depósitos de ₡100,000"
+                "texto": "Compre ₡5,000 o más y participa por: 3 kits parrilleros, 2 pantallas de televisión o 15 depósitos de ₡100,000"
             },
             "Boton": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(2) > div > div.sc-f3aad89a-2.jgXckh > a",
-                "texto":"Quiero saber más",
+                "texto": "Quiero saber más",
                 "elemento": "href",
-                "URL":"https://gmapp.fi.cr/biblioteca/1/Reglamentos/REGLAMENTO-PROMOCION-TARJETA.pdf"
+                "URL": "https://gmapp.fi.cr/biblioteca/1/Reglamentos/REGLAMENTO-PROMOCION-TARJETA.pdf"
             }
         },
         "Libro": {
@@ -80,14 +80,14 @@
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
-                "texto":"¿Cuenta con un crédito con tasa LIBOR en Grupo Mutual?"
+                "texto": "¿Cuenta con un crédito con tasa LIBOR en Grupo Mutual?"
             },
             "Descripcion": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-5.jPoCzY",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-5.jPoCzY",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-5.jPoCzY",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(3) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-5.jPoCzY",
-                "texto":"Infórmese sobre su Crédito de Vivienda o Bienestar Familiar en dólares."
+                "texto": "Infórmese sobre su Crédito de Vivienda o Bienestar Familiar en dólares."
             }
         },
         "ArregloDePago": {
@@ -104,30 +104,30 @@
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hXaQMx.sc-f3aad89a-4.fGUBXb",
-                "texto":"¿Requiere una alternativa de Arreglo de Pago?"
+                "texto": "¿Requiere una alternativa de Arreglo de Pago?"
             },
             "Descripcion": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > div > p.sc-266106ae-0.hYmikC.sc-f3aad89a-6.iGGdYW",
-                "texto":"Le invitamos a completar el formulario de solicitud de análisis de Readecuación o Refinanciamiento"
+                "texto": "Le invitamos a completar el formulario de solicitud de análisis de Readecuación o Refinanciamiento"
             },
             "Boton": {
                 "selectorMovil": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorTablet": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorLaptop": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > a",
                 "selectorDesktop": "#__next > div > div:nth-child(2) > div:nth-child(4) > div > div.sc-f3aad89a-2.jgXckh > a",
-                "texto":"Ingrese aquí",
+                "texto": "Ingrese aquí",
                 "elemento": "href",
-                "URL":"https://forms.office.com/Pages/ResponsePage.aspx?id=tipQ1TQyHEaKx89ifLH5GPG_TgCXiMpAhVplL6ZR7AFUNTNZVzdXRk9USE1KMFA5MjhSWVBFR1NaOC4u"
+                "URL": "https://forms.office.com/Pages/ResponsePage.aspx?id=tipQ1TQyHEaKx89ifLH5GPG_TgCXiMpAhVplL6ZR7AFUNTNZVzdXRk9USE1KMFA5MjhSWVBFR1NaOC4u"
             }
         }
     },
-    "Boton":{
-        "TarjetaDeRegalo":".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(1)",
-        "TarjetaDeDebito":".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(2)",
-        "Libro":".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(3)",
-        "ArregloDePago":".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(4)"
+    "Boton": {
+        "TarjetaDeRegalo": ".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(1)",
+        "TarjetaDeDebito": ".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(2)",
+        "Libro": ".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(3)",
+        "ArregloDePago": ".cKOpZq > .sc-f3aad89a-1 > .sc-f3aad89a-9 > .sc-f3aad89a-10 > :nth-child(4)"
     }
 }
